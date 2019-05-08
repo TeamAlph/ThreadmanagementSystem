@@ -1,0 +1,33 @@
+You Need To Install The Following Libraries For Python
+
+My Python version is 3
+so i just installed libraries that work on version 3
+
+links to installed libraries:
+https://pypi.org/
+https://stackoverflow.com/
+
+import speedtest
+import winsound
+import sys
+import wx
+import glob
+import psutil
+import datetime
+import platform
+import matplotlib.pyplot as plt
+from _thread import start_new_thread
+import socket
+import numpy as np
+import pandas as pd
+import signal
+import subprocess
+import os
+import time
+import wx.lib.agw.pygauge as PG
+from psutil import virtual_memory
+import matplotlib.patheffects as path_effects
+import platform
+import threading
+
+you need to install all these libraries
